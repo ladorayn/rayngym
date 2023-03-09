@@ -17,7 +17,7 @@ class SplashView extends GetView<SplashController> {
           width: double.infinity,
           child: Center(
             child: Image(
-              image: AssetImage("images/houseofedgelogo.jpeg"),
+              image: AssetImage("images/rayngym.png"),
               width: 300,
             ),
           ),

@@ -1,4 +1,4 @@
-# houseofedgegym
+# rayngym
 
 A new Flutter project.
 

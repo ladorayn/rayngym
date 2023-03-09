@@ -35,7 +35,7 @@ class DayPageView extends GetView<DayPageController> {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   const Text(
-                    'House of Edge Gym',
+                    'Rayn Gym',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       color: Color(0xffffffff),

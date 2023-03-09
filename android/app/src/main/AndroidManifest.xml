@@ -3,9 +3,9 @@
    <application
         android:label="Rayn Gym"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/rayngym">
         <activity
-            android:name="com.houseofedge.houseofedge.MainActivity"
+            android:name="com.rayn.rayngym.MainActivity"
             android:exported="true"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
